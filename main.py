@@ -21,6 +21,3 @@ print(X)
 print(Y)
 print(predictions)
 
-# output:
-# [[2.59868801]
-#  [5.09868801]]
